@@ -1,63 +1,24 @@
-# Hi there, I'm Dakshesh 👋
+# 💫 About Me:
+🔭 I’m currently working on, Robotics systems (balancing bots, robotic arm), embedded projects, and a modular JARVIS-style assistant with vision integration.<br>👯 I’m looking to collaborate on, Robotics, embedded systems, and computer vision projects—especially well-engineered, real-world applications.<br>🤝 I’m looking for help with, Optimizing computer vision on edge devices, control systems, and clean hardware–software architectures.<br>🌱 I’m currently learning, Control systems, PCB design, computer vision, and professional Git/GitHub workflows.<br>💬 Ask me about, ESP8266/Arduino/Raspberry Pi projects, robotics design, sensors & motor control.<br>⚡ Fun fact, I treat robotics like chess—precision, discipline, and long-term systems thinking.
 
-### 🚀 Electronics & Robotics Enthusiast | ECE @ BITS Pilani | Dual Degree with Iowa State University
 
-I build cool things — from **wheel-balancing robots** and **audio spectrum visualizers** to **JARVIS-like assistants**, **object-detection systems**, and **6DOF robotic arms**. My work blends embedded systems, AI, signal processing, and clean engineering design.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ironman_14057) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dakshesh-nankani-319643377) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TimeInvestigator1405) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daksheshnankani1405@gmail.com) 
 
-I believe in discipline, systems thinking, and building projects that actually *work*.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat&logo=pi-hole&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=flat&logo=platformio&logoColor=%23f5822a) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IronMan1405&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=IronMan1405&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IronMan1405&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=IronMan1405&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🔧 Current Focus
-
-* 🔊 **Audio Spectrum Visualizer** with custom FFT logic (C / Embedded C)
-* 🦾 **6DOF Robotic Arm** (Versioned build: web control → autonomy → final integration)
-  )
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** C, Python, Embedded C, MATLAB, JavaScript (basic)
-
-**Hardware/Platforms:** ESP8266, ESP32, STM32 Nucleo (F412ZG), Raspberry Pi, Arduino, PCA9685, sensors/ICs
-
-**Tools:** Git/GitHub, Vim, KiCad, Excalidraw, OpenCV, YOLO, Vosk, FFT implementations
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=IronMan1405&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📌 Projects
-
-* **Wheel Balancing Robot** — control systems + embedded optimization
-* **Audio Spectrum Analyzer** — DSP, FFT, real‑time visualization
-* **Line Follower & Obstacle Avoidance Robots** — IR, ultrasonic, motor control
-* **Smart Room Monitor** — IoT + automation
-* **JARVIS‑Style Offline Assistant** — wake-word (later), GUI, command parsing
-* **Raspberry Pi Surveillance System** — Telegram alerts + Flask dashboard
-
----
-
-## 🧩 Currently Learning
-
-* PCB design (KiCad → ready-for-fabrication pipelines)
-* Advanced signal processing for real-time DSP
-* Strengthening core ECE fundamentals (circuits, signals, control)
-
----
-
-## ✏️ Creative Side
-
-I sketch, shade portraits, write poetry, solve daily Murdle puzzles, and occasionally dance.
-
----
-
-## 📫 Reach Me
-
-* **GitHub:** *your-github-link-here*
-* **LinkedIn:** *your-linkedin-link-here*
-* **Email:** *your-email-here*
-
----
-
-⭐ *If you like my work, feel free to star some repos or connect!*
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
