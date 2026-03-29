@@ -11,9 +11,9 @@
 ![](https://github-readme-stats-psi-gilt-71.vercel.app/api?username=IronMan1405&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IronMan1405&theme=rose-pine&hide_border=true)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IronMan1405&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=IronMan1405&theme=rose_pine&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=IronMan1405&theme=rose_pine&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
