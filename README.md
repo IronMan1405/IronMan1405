@@ -15,7 +15,7 @@ Fun fact: Half my projects exist because I refused to do something manually twic
 # GitHub Stats:
 ![](https://github-readme-stats-psi-gilt-71.vercel.app/api?username=IronMan1405&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IronMan1405&theme=rose-pine&hide_border=true)<!--(https://git.io/streak-stats)>--><br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IronMan1405&theme=rose-pine&hide_border=true&v=2)<!--(https://git.io/streak-stats)>--><br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IronMan1405&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 <!--
